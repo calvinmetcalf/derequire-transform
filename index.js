@@ -3,7 +3,7 @@ var derequrie = require('derequire');
 
 module.exports = function (file, opt1, opt2) {
   var data = '';
-  return through(function (chunk, _, next) {
+  return through2(function (chunk, _, next) {
     data += chunk.toString();
     next();
   }, function (next) {
