@@ -1,6 +1,6 @@
 {
   "name": "derequire-transform",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "browserify transform for derequire",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
     "through2": "^0.6.2",
     "derequire": "^1.2.0"
   },
-  "keywords": ["browserify","browserify-transform"]
+  "keywords": [
+    "browserify",
+    "browserify-transform"
+  ]
 }
