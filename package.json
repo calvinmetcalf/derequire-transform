@@ -1,0 +1,24 @@
+{
+  "name": "derequire-transform",
+  "version": "0.0.0",
+  "description": "browserify transform for derequire",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/calvinmetcalf/derequire-transform.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvinmetcalf/derequire-transform/issues"
+  },
+  "homepage": "https://github.com/calvinmetcalf/derequire-transform",
+  "dependencies": {
+    "through2": "^0.6.2",
+    "derequire": "^1.2.0"
+  },
+  "keywords": ["browserify","browserify-transform"]
+}
