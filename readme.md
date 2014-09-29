@@ -1,5 +1,5 @@
-derequrie-transform
-====
+derequire-transform
+===================
 
 Quick and dirty [derequire](https://github.com/calvinmetcalf/derequire) transform, probably broken, pull requests accepted.   
 
