@@ -1,5 +1,5 @@
 var through = require('through2');
-var derequrie = require('derequire');
+var derequire = require('derequire');
 
 module.exports = function (file, opt1, opt2) {
   var data = '';
