@@ -18,7 +18,7 @@
   "homepage": "https://github.com/calvinmetcalf/derequire-transform",
   "dependencies": {
     "through2": "^0.6.2",
-    "derequire": "^1.2.0"
+    "derequire": "^2.0.0"
   },
   "keywords": [
     "browserify",
