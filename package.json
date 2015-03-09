@@ -1,6 +1,6 @@
 {
   "name": "derequire-transform",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "browserify transform for derequire",
   "main": "index.js",
   "scripts": {
